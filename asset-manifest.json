@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mirai-digistore/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mirai-digistore/static/js/main.ce6006cb.chunk.js",
+    "main.js.map": "/mirai-digistore/static/js/main.ce6006cb.chunk.js.map",
+    "runtime-main.js": "/mirai-digistore/static/js/runtime-main.6afd185f.js",
+    "runtime-main.js.map": "/mirai-digistore/static/js/runtime-main.6afd185f.js.map",
+    "static/js/2.c4352e11.chunk.js": "/mirai-digistore/static/js/2.c4352e11.chunk.js",
+    "static/js/2.c4352e11.chunk.js.map": "/mirai-digistore/static/js/2.c4352e11.chunk.js.map",
+    "static/js/3.c4dc2295.chunk.js": "/mirai-digistore/static/js/3.c4dc2295.chunk.js",
+    "static/js/3.c4dc2295.chunk.js.map": "/mirai-digistore/static/js/3.c4dc2295.chunk.js.map",
+    "index.html": "/mirai-digistore/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mirai-digistore/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c4352e11.chunk.js.LICENSE.txt": "/mirai-digistore/static/js/2.c4352e11.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mirai-digistore/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6afd185f.js",
+    "static/js/2.c4352e11.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ce6006cb.chunk.js"
+  ]
+}
