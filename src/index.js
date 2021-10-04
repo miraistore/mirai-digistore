@@ -1,8 +1,13 @@
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "./system/Custom.scss"
+import 'react-toastify/dist/ReactToastify.css';
+
+require('dotenv').config();
 
 ReactDOM.render(
   <React.StrictMode>
